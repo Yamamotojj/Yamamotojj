@@ -1,12 +1,12 @@
 #  Hi, I'm Azumin!🎀
 
 💗 Information Technology Student   
-🌸 Interested in Data Analytics, Hardware & Embedded Systems, and Game Development  
+🌸 Interested in Data Analytics, Hardware & Embedded Systems, and UI/UX 
 🍥 I am particularly passionate about exploring how technology can enhance fashion, from smart clothing, wearable devices, to interactive designs.
 
 ### ✨ Currently Learning
   🤖 Artificial Intelligence & Machine Learning  
-  🎮 Game Development and Game Mechanics  
+  🎮 Game Development 
   📊 Data Analytics & Data Visualization
 
 
