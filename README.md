@@ -1,4 +1,4 @@
-#  Hi, I'm Azumin!🎀
+#  Hi, I'm Azumin!
 
 💗 Information Technology Student   
 🌸 Interested in Data Analytics and Hardware & Embedded Systems
